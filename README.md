@@ -3,9 +3,13 @@
 The company operates in the consumer electronics industry, specializing in the sale of products such as laptops, smartwatches, desktop PCs, tablets, and smartphones. Having been active for over a decade, the company adopts a direct-to-consumer business model, leveraging both online and offline sales channels. Key business metrics include total sales revenue, product-specific performance, and the effectiveness of marketing campaigns. As a data analyst at the company, this analysis aims to uncover trends and actionable insights to improve sales and marketing strategies.
 
 Insights and recommendations are provided on the following key areas:
+
 Category 1: Regional Performance Analysis
+
 Category 2: Marketing Campaign Effectiveness
+
 Category 3: Product Sales Trends
+
 Category 4: Sales Team Contributions
 
 An interactive Power BI dashboard used to report and explore sales trends can be found here [link].
