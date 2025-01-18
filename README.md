@@ -4,11 +4,8 @@ The company operates in the consumer electronics industry, specializing in the s
 
 Insights and recommendations are provided on the following key areas:
 Category 1: Regional Performance Analysis
-
 Category 2: Marketing Campaign Effectiveness
-
 Category 3: Product Sales Trends
-
 Category 4: Sales Team Contributions
 
 An interactive Power BI dashboard used to report and explore sales trends can be found here [link].
