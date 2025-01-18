@@ -39,6 +39,9 @@ Seasonal Impact: Marketing campaigns such as "Black Friday 2023" and "Holiday De
 
 Regional Insights: The North region consistently outperforms others, indicating a strong customer base and high market penetration.
 
+![powerbiScreenShot](https://github.com/user-attachments/assets/1a2e3f1b-cc15-4e94-879a-cfa99670350c)
+
+
 
 # Insights Deep Dive
 
