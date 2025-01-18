@@ -3,7 +3,6 @@
 The company operates in the consumer electronics industry, specializing in the sale of products such as laptops, smartwatches, desktop PCs, tablets, and smartphones. Having been active for over a decade, the company adopts a direct-to-consumer business model, leveraging both online and offline sales channels. Key business metrics include total sales revenue, product-specific performance, and the effectiveness of marketing campaigns. As a data analyst at the company, this analysis aims to uncover trends and actionable insights to improve sales and marketing strategies.
 
 Insights and recommendations are provided on the following key areas:
-
 Category 1: Regional Performance Analysis
 
 Category 2: Marketing Campaign Effectiveness
@@ -40,7 +39,7 @@ Seasonal Impact: Marketing campaigns such as "Black Friday 2023" and "Holiday De
 Regional Insights: The North region consistently outperforms others, indicating a strong customer base and high market penetration.
 
 
-# Insights Deep Dive**
+# Insights Deep Dive
 
 Category 1: Regional Performance Analysis
 
