@@ -12,6 +12,7 @@ An interactive Power BI dashboard used to report and explore sales trends can be
 
 
 **Data Structure & Initial Checks**
+
 The company's main database structure consists of four tables:
 
 Table 1: Contains detailed sales data by product, region, and time.
