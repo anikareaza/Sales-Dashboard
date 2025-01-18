@@ -31,7 +31,7 @@ Table 4: Holds customer demographic and purchase behavior data.
 
 
 # Executive Summary
-Overview of Findings
+### Overview of Findings
 
 Product Performance: Laptops lead overall sales with over 5.2 million units sold, while smartphones show steady growth in specific months despite slightly lower total sales.
 
