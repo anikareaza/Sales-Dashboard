@@ -13,6 +13,7 @@ Insights and recommendations are provided on the following key areas:
 - Category 4: Sales Team Contributions
 
 An interactive Power BI dashboard used to report and explore sales trends can be found here [Link] (https://github.com/anikareaza/Sales-Dashboard/blob/main/Sales%20and%20Marketing%20Correlations%20Insights.pbix).
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 
 # Data Structure & Initial Checks
