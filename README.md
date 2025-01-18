@@ -15,7 +15,7 @@ Category 4: Sales Team Contributions
 An interactive Power BI dashboard used to report and explore sales trends can be found here [link].
 
 
-**Data Structure & Initial Checks**
+# Data Structure & Initial Checks
 
 The company's main database structure consists of four tables:
 
@@ -30,7 +30,7 @@ Table 4: Holds customer demographic and purchase behavior data.
 [Entity Relationship Diagram here]
 
 
-**Executive Summary**
+# Executive Summary
 Overview of Findings
 
 Product Performance: Laptops lead overall sales with over 5.2 million units sold, while smartphones show steady growth in specific months despite slightly lower total sales.
@@ -40,7 +40,7 @@ Seasonal Impact: Marketing campaigns such as "Black Friday 2023" and "Holiday De
 Regional Insights: The North region consistently outperforms others, indicating a strong customer base and high market penetration.
 
 
-**Insights Deep Dive**
+# Insights Deep Dive**
 
 Category 1: Regional Performance Analysis
 
@@ -93,7 +93,7 @@ Main Insight 2: Team Gamma underperforms in comparison, particularly in the Sout
 [Visualization: Sales by team and product category]
 
 
-**Recommendations**
+# Recommendations
 Based on the insights and findings above, we recommend the following:
 
 Region-Specific Strategies: Invest in targeted marketing campaigns for the South region to capture untapped market potential.
@@ -107,6 +107,6 @@ Sales Team Support: Provide additional training and resources to underperforming
 Data-Driven Decisions: Leverage insights from high-performing products like laptops to inform future product development and marketing initiatives.
 
 
-**Assumptions and Caveats**
+# Assumptions and Caveats
 Assumption 1: Missing data for certain months (e.g., February) were filled using the average of that column to ensure consistency.
 
