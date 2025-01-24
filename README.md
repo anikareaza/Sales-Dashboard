@@ -27,7 +27,6 @@ Table 3: Stores information on sales teams and their performance.
 
 Table 4: Holds customer demographic and purchase behavior data.
 
-[Entity Relationship Diagram here]
 
 
 # Executive Summary
@@ -55,7 +54,6 @@ Regional Insights: The North region consistently outperforms others, indicating 
   
 - Main Insight 3: Seasonal campaigns improve sales across all regions, but the West region’s response to these campaigns is less pronounced.
 
-[Visualization: Sales breakdown by region and campaign effectiveness]
 
 
 ### Category 2: Marketing Campaign Effectiveness
@@ -68,7 +66,6 @@ Regional Insights: The North region consistently outperforms others, indicating 
   
 - Main Insight 3: "Summer Sale 2022" had the least impact, suggesting a need for improved targeting and messaging.
 
-[Visualization: Monthly sales impact of marketing campaigns]
 
 ### Category 3: Product Sales Trends
 
@@ -82,7 +79,6 @@ Regional Insights: The North region consistently outperforms others, indicating 
   
 - Main Insight 4: Tablets and desktop PCs have relatively flat sales trends, indicating potential saturation or limited demand.
 
-[Visualization: Total sales trends by product category]
 
 
 ### Category 4: Sales Team Contributions
@@ -93,7 +89,6 @@ Regional Insights: The North region consistently outperforms others, indicating 
   
 - Main Insight 2: Team Gamma underperforms in comparison, particularly in the South region.
 
-[Visualization: Sales by team and product category]
 
 
 # Recommendations
