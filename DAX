@@ -1,0 +1,16 @@
+Date = 
+VAR MinYear = YEAR(MIN(ExampleData_TopSellingProducts[Sale Date]) )
+VAR MaxYear = YEAR(MAX(ExampleData_TopSellingProducts[Sale Date]))
+RETURN
+ADDCOLUMNS(
+    FILTER(
+        CALENDARAUTO( ),
+        AND (YEAR( [Date] ) >= MinYear, YEAR( [Date] ) <= MaxYear)
+    ),
+    "Year", YEAR( [Date]),
+    "Month Name", FORMAT([Date], "mmmm"),
+    "Month Name Short", FORMAT([Date], "mmm"),
+    "Month Number", MONTH([Date]),
+    "QUarter Name", "Q" & FORMAT([Date], "Q YYYY"),
+    "Quarter Number", FORMAT( [Date], "YYYYQ")
+)
