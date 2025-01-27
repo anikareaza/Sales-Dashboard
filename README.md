@@ -14,7 +14,7 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive Power BI dashboard used to report and explore sales trends can be found here [Link](https://github.com/anikareaza/Sales-Dashboard/blob/main/Sales%20and%20Marketing%20Correlations%20Insights.pbix).
 
-An interactive Power BI dashboard used to report and explore sales trends can be found here [Link](https://github.com/anikareaza/Sales-Dashboard/blob/cf2bcf82ccf50132c3b529934f2f1b097c571ae7/DAX).
+A link to the DAX used to create the time intelligence function can be found here [Link](https://github.com/anikareaza/Sales-Dashboard/blob/cf2bcf82ccf50132c3b529934f2f1b097c571ae7/DAX).
 
 
 # Data Structure & Initial Checks
